@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "full-icu": "node --icu-data-dir=node_modules/full-icu index.js",
+    "node-itself": "node index.js"
+  },
+  "dependencies": {
+    "full-icu": "^1.2.1"
+  }
+}
